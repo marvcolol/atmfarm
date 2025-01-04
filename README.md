@@ -1,2 +1,3 @@
-# atmfarm
-Simple free and public undetected ATM farm for Da Hood!
+# marvco's ATM Farm - [FREE]
+
+Simple free, public and undetected ATM farm for Da Hood!
