@@ -1,3 +1,3 @@
 game.Players.PlayerAdded:Connect(function(player)
-player:Kick("Script is currently down for updates. Please rejoin later.")
+player:Kick("The script is down for updates until 20:00 GMT")
 end)
